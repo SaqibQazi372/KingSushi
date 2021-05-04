@@ -1,2 +1,2 @@
-# KingSushi
+# KingSushi Swift app
 #SWIFT
